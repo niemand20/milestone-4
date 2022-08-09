@@ -45,7 +45,7 @@ shoppingCart.mouse = 100;
 shoppingCart['mouse'] = 121;
 // console.log(shoppingCart);
 
-
+// another way to set property value
 var propertyName = 'mouse';
 shoppingCart[propertyName] = 77;
 console.log(shoppingCart);
